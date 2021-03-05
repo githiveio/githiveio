@@ -1,7 +1,7 @@
-const siteTitle = "githive.io | git more done";
-const siteDescription = "Codeless Git";
+const siteTitle = "git more done";
+const siteDescription = "Work with your development and operations teams not against them.";
 const siteAuthor = "@johnnyiller";
-const siteUrl = "https://gatsby-starter-typescript-deluxe.netlify.com";
+const siteUrl = "https://site.githive.io";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;
 const siteKeywords = ["gatsby", "typescript", "starter", "javascript", "react"];
 
